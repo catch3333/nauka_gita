@@ -7,3 +7,4 @@ To jest moj projekt gita
 ## TEST
 
 *kolejna proba commita*
+Zmiana zdalna - test pull'a
