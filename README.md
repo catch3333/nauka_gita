@@ -8,3 +8,4 @@ To jest moj projekt gita
 
 *kolejna proba commita*
 Zmiana zdalna - test pull'a
+i jeszcze jeden pull
