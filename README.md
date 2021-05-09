@@ -1,5 +1,7 @@
 ## Nauka Gita
 
-to jest pprzykladowy kod
+To jest moj projekt gita
 
-  test test test
+Nie wiem jak ten plik ma wygladac
+
+![GitHub Logo](/images/logo.png)
